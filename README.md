@@ -3,6 +3,9 @@
 # WarRoom
 This is a terminal-based system written in C designed to manage users, classified blocks/reports, aerospace assets, direct messages, and operational groups within a simulated aerospace organization. **WarRoom** provides a secure environment for operators to store, retrieve, and share critical information, simulating a strategic command and control interface.
 
+The development of WarRoom leveraged Artificial Intelligence tools to significantly enhance the learning and execution process, utilizing AI as a critical resource to rapidly absorb and apply industry-standard practices; this approach focused on Process Improvement by streamlining the learning curve on complex C language features, such as memory management and efficient data serialization for binary files; it ensured Best Practices Implementation by applying AI insights to establish robust coding standards and secure file I/O operations; it also enabled Documentation Mastery by developing clear, professional documentation habits for internal comments and function headers; finally, AI was used for Code Validation, providing guided debugging and validation of complex logic, particularly in the hierarchical access control features, guaranteeing system integrity and elevating the overall project quality.
+
+
 -----
 
 Watch The Video
